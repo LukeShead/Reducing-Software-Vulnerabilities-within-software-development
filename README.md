@@ -40,3 +40,34 @@ This is where companies will give their employees equipment to use in work and o
 
 #### System analysis
 This is one of the more technical methods, this is where a company will use this technique to analyse and check it all for problems, this method allows for comprehensive feedback as the system analysis will be used all over the system, all parts of it will be checked and tested to make sure they is not a vulnerability within the system. Because of the importance of the research, it means that sometimes there will be a third party team involved. This can come in many forms, one of which is the use of white hat hackers, these are hackers that work under the law and will hack systems in order to test for any vulnerabilites within the system, by having a white hat hack a system and give the feedback, it allows for all aspects of the system to be covered. 
+
+
+## Case Studies.
+
+There are many examples when looking at software development vulnerabilities, this can be seen when looking at case studies about software development vulnerability. By looking at these case studies it should give enough information on the topic of software vulnerability in the professional standard.
+
+### Study No.1
+
+The first case study is from the BBC: -http://www.bbc.co.uk/news/technology-43128072
+
+This study shows how the need for cyber security is better than ever before, this means that there are people 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
