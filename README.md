@@ -53,7 +53,8 @@ With many different parts of the system being vulnerable during development, the
 #### Re-usable code.
 Many companies when looking at projects, in order to save time they will look at different points within the project that can be done by using recyclable code from past projects or being able to use free, re-usable code that free lancers will give to companies from websites that they can upload to. Doing this can save companies a lot of time and money, however it can mean that a company can also be vulnerable, many of the freelance code can have viruses or some form of malicous software hidden inside it. Many companies know this and will still take the risk of attempting to use the code, this is because if it doesn't and can have a positive affect on the project, it will save the team and the project a big tasks in creating the algorithym themselves.
 
-#### 
+#### Coding languages and the idiosyncrasies within them
+When building an application, the team will all meet to plan the project, when they doing this they will designate a coding language to be used in order to build the application, this can be any language as every language has a use that can be more helpful for a certain type of application, because of this it means that there will be a some things that this code will be very good at. However some codes have idiosyncrasies, this means it has an unusual behaviour, for example web scripting languages were more vulnerable to attacks such as SQL injections because of how it interacts with the code.
 
 
 
