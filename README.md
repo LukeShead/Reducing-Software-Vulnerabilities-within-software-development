@@ -51,7 +51,9 @@ References: http://www.veracode.com/sites/default/files/Resources/Whitepapers/ho
 With many different parts of the system being vulnerable during development, these being exploited can mean a lot of the work that has been done can be lost or corrupted. Here are some examples of vulnerabilities within software development:
 
 #### Re-usable code.
-Many companies when looking at projects, in order to save time they will look at different points within the project that can be done by using recyclable code from past projects or being able to use free, re-usable code that free lancers will give to companies from websites that they can upload to
+Many companies when looking at projects, in order to save time they will look at different points within the project that can be done by using recyclable code from past projects or being able to use free, re-usable code that free lancers will give to companies from websites that they can upload to. Doing this can save companies a lot of time and money, however it can mean that a company can also be vulnerable, many of the freelance code can have viruses or some form of malicous software hidden inside it. Many companies know this and will still take the risk of attempting to use the code, this is because if it doesn't and can have a positive affect on the project, it will save the team and the project a big tasks in creating the algorithym themselves.
+
+#### 
 
 
 
