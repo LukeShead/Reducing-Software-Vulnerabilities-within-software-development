@@ -2,7 +2,7 @@
 
 ## Software development vulnerabilities and how to reduce them within the game
 
-### Possible vulnerabilities within a system or software
+### Introduction
 When developing software, there are many ways that it can be exploited by attackers, this can be done in many ways however the biggest way is by discovering and exploiting vulnerabilities within the system, this is because it is where the software is easier to exploit. 
 
 #### SQL injections and input areas.
@@ -40,6 +40,19 @@ This is where companies will give their employees equipment to use in work and o
 
 #### System analysis
 This is one of the more technical methods, this is where a company will use this technique to analyse and check it all for problems, this method allows for comprehensive feedback as the system analysis will be used all over the system, all parts of it will be checked and tested to make sure they is not a vulnerability within the system. Because of the importance of the research, it means that sometimes there will be a third party team involved. This can come in many forms, one of which is the use of white hat hackers, these are hackers that work under the law and will hack systems in order to test for any vulnerabilites within the system, by having a white hat hack a system and give the feedback, it allows for all aspects of the system to be covered. 
+
+
+## Vulnerabilities within software development
+What was went through within the introduction were the dangers and responses to certain vulnerabilities within a software or system, however it is during software development where a lot of vulnerabilities can be dangerous and can be exploited. 
+
+References: http://www.veracode.com/sites/default/files/Resources/Whitepapers/how-vulnerabilities-get-into-software-veracode.pdf
+
+### Vulnerabilities examples.
+With many different parts of the system being vulnerable during development, these being exploited can mean a lot of the work that has been done can be lost or corrupted. Here are some examples of vulnerabilities within software development:
+
+#### Re-usable code.
+Many companies when looking at projects, in order to save time they will look at different points within the project that can be done by using recyclable code from past projects or being able to use free, re-usable code that free lancers will give to companies from websites that they can upload to
+
 
 
 ## Case Studies.
