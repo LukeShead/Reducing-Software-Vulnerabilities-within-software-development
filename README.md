@@ -66,7 +66,7 @@ There are many examples when looking at software development vulnerabilities, th
 
 The first case study is from the BBC: -http://www.bbc.co.uk/news/technology-43128072
 
-This study shows how the need for cyber security is better than ever before, this means that there are people 
+This study shows how the need for cyber security is better than ever before, this means that there is a shortage on how many people are available, this means that many companies are currently looking into how times 
 
 
 
