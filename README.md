@@ -70,6 +70,4 @@ This study shows how the need for cyber security is better than ever before, thi
 
 
 
-
-
-
+![Questionnaire](https://github.com/LukeShead/Reducing-Software-Vulnerabilities-within-software-development/blob/master/questionnaire.JPG)
