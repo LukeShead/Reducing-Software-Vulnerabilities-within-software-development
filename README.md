@@ -56,20 +56,19 @@ Many companies when looking at projects, in order to save time they will look at
 #### Coding languages and the idiosyncrasies within them
 When building an application, the team will all meet to plan the project, when they doing this they will designate a coding language to be used in order to build the application, this can be any language as every language has a use that can be more helpful for a certain type of application, because of this it means that there will be a some things that this code will be very good at. However some codes have idiosyncrasies, this means it has an unusual behaviour, for example web scripting languages were more vulnerable to attacks such as SQL injections because of how it interacts with the code.
 
-
-
 ## Case Studies.
 
 There are many examples when looking at software development vulnerabilities, this can be seen when looking at case studies about software development vulnerability. By looking at these case studies it should give enough information on the topic of software vulnerability in the professional standard.
 
-### Study No.1
+### Study No.1 (Yahoo Hack 2016)
 
-The first case study is from the BBC: -http://www.bbc.co.uk/news/technology-43128072
+https://www.theguardian.com/technology/2016/dec/14/yahoo-hack-security-of-one-billion-accounts-breached
 
-This study shows how the need for cyber security is better than ever before, this means that there is a shortage on how many people are available, this means that many people are currently not aware the danger that not knowing security vulnerabilities.  
+#### What happened?
+In 2016 the internationally known company Yahoo, was hacked, this was done by a group of people that had the goal of collecting personal data about the users that used the yahoo site in order to gain sensitive information about them all. This meant that when the hack was successful it impacted the company by a large margin as the DPA (Data Protection Act) was breached a large number of times. Because of this the company was forced to sell it's core businees to Verizon as their stocks dropped by such a considerable rate that they had no choice but to sell.
 
-
-
+#### How was it done?
+The hack was commenced by implementing fake cookies onto the website of Yahoo, user's that would 
 
 ## Primary Research
 
