@@ -65,10 +65,13 @@ There are many examples when looking at software development vulnerabilities, th
 https://www.theguardian.com/technology/2016/dec/14/yahoo-hack-security-of-one-billion-accounts-breached
 
 #### What happened?
-In 2016 the internationally known company Yahoo, was hacked, this was done by a group of people that had the goal of collecting personal data about the users that used the yahoo site in order to gain sensitive information about them all. This meant that when the hack was successful it impacted the company by a large margin as the DPA (Data Protection Act) was breached a large number of times. Because of this the company was forced to sell it's core businees to Verizon as their stocks dropped by such a considerable rate that they had no choice but to sell.
+In 2016 the internationally known company Yahoo, was hacked, this was done by a group of people that had the goal of collecting personal data about the users that used the yahoo site in order to gain sensitive information about them all. This meant that when the hack was successful it impacted the company by a large margin as the DPA (Data Protection Act) was breached a large number of times. Because of this the company was forced to sell it's core businees to Verizon as their stocks dropped by such a considerable rate that they had no choice but to sell. The information they stole included telephone numbers, passwords and email addresses, this is all sensitive information that breaches the DPA.
 
 #### How was it done?
-The hack was commenced by implementing fake cookies onto the website of Yahoo, user's that would enter the site would see the 
+The hack was commenced by implementing fake cookies onto the website of Yahoo, user's that would enter the site would see the cookies appear on the screen, this would mean that when users would enable the fake cookies onto their system it would allow the malware to access their system and extract the information. This means that by not even realising, the user's of the site accepted the malware onto their system as they believed it was just harmless cookies. This technique was extremely successful and allowed around 3 billion user's information to be extracted and sold.
+
+#### How did they deal with it?
+
 
 ## Primary Research
 
