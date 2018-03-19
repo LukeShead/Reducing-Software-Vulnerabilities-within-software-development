@@ -70,12 +70,20 @@ In 2016 the internationally known company Yahoo, was hacked, this was done by a 
 #### How was it done?
 The hack was commenced by implementing fake cookies onto the website of Yahoo, user's that would enter the site would see the cookies appear on the screen, this would mean that when users would enable the fake cookies onto their system it would allow the malware to access their system and extract the information. This means that by not even realising, the user's of the site accepted the malware onto their system as they believed it was just harmless cookies. This technique was extremely successful and allowed around 3 billion user's information to be extracted and sold.
 
-#### How did they deal with it?
+#### How did they solve the problem?
 Yahoo were unable to catch the hackers that were paid to hack them even when working with the police. Because of this they contacted every person that was affected by the hack and asked them to change their information within the account, whereas many people did this it still did not stop many customers being drawn away from Yahoo and closing down the account. There was no precautions taken for this kind of event, because of this it meant that many user's account information was taken and sold.
 
 
-### Case Study No.2()
-####
+### Case Study No.2(Ebay Hack 2014)
+
+##### References: http://metro.co.uk/2014/05/22/the-ebay-hack-what-you-need-to-know-4736153/
+
+#### What happened?
+In 2014 the company Ebay was hacked by a group that used its methods to gather encrypted passwords as well as other personal information, it is not clear to show exactly what was 
+
+#### How was it done?
+
+#### How did they solve the problem?
 
 ## Primary Research
 
