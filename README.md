@@ -60,7 +60,7 @@ When building an application, the team will all meet to plan the project, when t
 
 There are many examples when looking at software development vulnerabilities, this can be seen when looking at case studies about software development vulnerability. By looking at these case studies it should give enough information on the topic of software vulnerability in the professional standard.
 
-### Study No.1 (Yahoo Hack 2016)
+### Case Study No.1 (Yahoo Hack 2016)
 
 https://www.theguardian.com/technology/2016/dec/14/yahoo-hack-security-of-one-billion-accounts-breached
 
@@ -71,7 +71,11 @@ In 2016 the internationally known company Yahoo, was hacked, this was done by a 
 The hack was commenced by implementing fake cookies onto the website of Yahoo, user's that would enter the site would see the cookies appear on the screen, this would mean that when users would enable the fake cookies onto their system it would allow the malware to access their system and extract the information. This means that by not even realising, the user's of the site accepted the malware onto their system as they believed it was just harmless cookies. This technique was extremely successful and allowed around 3 billion user's information to be extracted and sold.
 
 #### How did they deal with it?
+Yahoo were unable to catch the hackers that were paid to hack them even when working with the police. Because of this they contacted every person that was affected by the hack and asked them to change their information within the account, whereas many people did this it still did not stop many customers being drawn away from Yahoo and closing down the account. There was no precautions taken for this kind of event, because of this it meant that many user's account information was taken and sold.
 
+
+### Case Study No.2()
+####
 
 ## Primary Research
 
