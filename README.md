@@ -68,7 +68,7 @@ https://www.theguardian.com/technology/2016/dec/14/yahoo-hack-security-of-one-bi
 In 2016 the internationally known company Yahoo, was hacked, this was done by a group of people that had the goal of collecting personal data about the users that used the yahoo site in order to gain sensitive information about them all. This meant that when the hack was successful it impacted the company by a large margin as the DPA (Data Protection Act) was breached a large number of times. Because of this the company was forced to sell it's core businees to Verizon as their stocks dropped by such a considerable rate that they had no choice but to sell.
 
 #### How was it done?
-The hack was commenced by implementing fake cookies onto the website of Yahoo, user's that would 
+The hack was commenced by implementing fake cookies onto the website of Yahoo, user's that would enter the site would see the 
 
 ## Primary Research
 
