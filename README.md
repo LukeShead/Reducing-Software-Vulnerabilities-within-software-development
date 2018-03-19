@@ -66,8 +66,7 @@ There are many examples when looking at software development vulnerabilities, th
 
 The first case study is from the BBC: -http://www.bbc.co.uk/news/technology-43128072
 
-This study shows how the need for cyber security is better than ever before, this means that there is a shortage on how many people are available, this means that many people are currently not aware the danger that not knowing security vulnerabilities. Can cause when looking at 
-
+This study shows how the need for cyber security is better than ever before, this means that there is a shortage on how many people are available, this means that many people are currently not aware the danger that not knowing security vulnerabilities.  
 
 
 ![Questionnaire](https://github.com/LukeShead/Reducing-Software-Vulnerabilities-within-software-development/blob/master/questionnaire.JPG)
