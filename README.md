@@ -79,9 +79,10 @@ Yahoo were unable to catch the hackers that were paid to hack them even when wor
 ##### References: http://metro.co.uk/2014/05/22/the-ebay-hack-what-you-need-to-know-4736153/
 
 #### What happened?
-In 2014 the company Ebay was hacked by a group that used its methods to gather encrypted passwords as well as other personal information, it is not clear to show exactly what was 
+In 2014 the company Ebay was hacked by a group that used its methods to gather encrypted passwords as well as other personal information,  there was no information released about when this attacked happened or how long it took for them to stop this event. This was another breach of the DPA, because of this EBay were fined five hundred pounds for this event. As well as this, many of EBay's customers had to change information on their account to ensure that their information was not still shown. However the most damaged thing was their reputation, EBay suffered from many people not trusting the site and shopping for items on other websites.
 
 #### How was it done?
+The hackers used their methods to access the database that kept all of EBay's customer data on. They took the data that was stored on the database about all of their customers sensitive data in order to sell it to other people later on for profit. Access was gained throughh using three different coperate emails to find their way into the database. The people
 
 #### How did they solve the problem?
 
