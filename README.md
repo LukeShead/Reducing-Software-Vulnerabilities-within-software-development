@@ -92,7 +92,7 @@ EBay sent out emails to all of the people that were affected by the hack, the pe
 
 When researching for reducing vulnerabilities within developing software. I used many methods in order to research different techniques that can be used and how well it is understood in the view of the general public, one method I used in order to gather primary research was a questionnaire, this questionnaire would help me get answers to how people view cyber security and how safe people beleive their life is online. 
 
-Using this information I will be able to see about how people view cyber security and the risks of not knowing how safe they are or are not. This will allow me to look at peoples knowledge on security therefore their knowledge on keeping themselves safe when doing anything online, this includes software development. The results will show if people know how to protect themselves when building software.
+Using this information I will be able to see about how people view cyber security and the risks of not knowing how safe they are or are not. This will allow me to look at peoples knowledge on security therefore their knowledge on keeping themselves safe when doing anything online, this includes software development. The results will show if people know how to protect themselves when building software, the questionnaire focused on how people view security and how dangerous it can be to not know enough, by finding out general security knowledge, we can look at knowledge of security of developing software.
 
 
 
