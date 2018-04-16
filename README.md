@@ -82,9 +82,11 @@ Yahoo were unable to catch the hackers that were paid to hack them even when wor
 In 2014 the company Ebay was hacked by a group that used its methods to gather encrypted passwords as well as other personal information,  there was no information released about when this attacked happened or how long it took for them to stop this event. This was another breach of the DPA, because of this EBay were fined five hundred pounds for this event. As well as this, many of EBay's customers had to change information on their account to ensure that their information was not still shown. However the most damaged thing was their reputation, EBay suffered from many people not trusting the site and shopping for items on other websites.
 
 #### How was it done?
-The hackers used their methods to access the database that kept all of EBay's customer data on. They took the data that was stored on the database about all of their customers sensitive data in order to sell it to other people later on for profit. Access was gained throughh using three different coperate emails to find their way into the database. The people
+The hackers used their methods to access the database that kept all of EBay's customer data on. They took the data that was stored on the database about all of their customers sensitive data in order to sell it to other people later on for profit. Access was gained throughh using three different coperate emails to find their way into the database. The people that had their emails stolen were higher ups within the company, this meant it gave them access to most of the system with hacking it.
 
 #### How did they solve the problem?
+EBay sent out emails to all of the people that were affected by the hack, the people that had their emails taken were advised to change their passwords and even the whole emails of the account. The emails had a problem being sent out, the amount of people that had information stolen was above the thousands, this meant sending that many emails out in a short amount of time very difficult. Because of this there were many people that didn't get their notification email till much later after the hack was released, this damaged the reputation as there were people that didn't know their information was stolen.
+
 
 ## Primary Research
 
