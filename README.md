@@ -90,7 +90,13 @@ EBay sent out emails to all of the people that were affected by the hack, the pe
 
 ## Primary Research
 
-When researching for reducing vulnerabilities within developing software, I needed to use many different techniques and tools in order to research correctly, this includes different PDF's being read and notes taken from those, also having my own primary research being done to get the research. All of this was to understand three different question that I wanted to ask, these
+When researching for reducing vulnerabilities within developing software, I needed to use many different techniques and tools in order to research correctly, this includes different PDF's being read and notes taken from those, also having my own primary research being done to get the research. All of this was to understand three different question that I wanted to ask, these questions are:
+
+1. Are people aware of what hacking is and how it is done?
+
+2. How safe do people think they are with their current security settings?
+
+3. Do people know what kind of information could lead to information being stolen
 
 
 ### Questionnaire that I used
