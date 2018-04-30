@@ -98,7 +98,10 @@ When researching for reducing vulnerabilities within developing software, I need
 
 3. Do people know what kind of information could lead to information being stolen
 
-The reasons why I want to know about these questions is because by looking at how people view security and how safe they think they are could link into when developing software, this is because 
+The reasons why I want to know about these questions is because by looking at how people view security and how safe they think they are could link into when developing software, this is because if people are not careful during their development stage they can allow important data or information to be leaked out. Having data leaks can cause many different issues when attempting to develop a software as the software will be comprimised and any plans along with it, this can be potentially fatal for a company if the development of the software is vital for a team to keep operating
+
+By finding out different ways people believe that hacking is and how they believe it is done, it shows me what kind of methods they know how to defend against since they are aware of it. For example if someone knows phishing is a method of hacking and what it does, the person can then look out for it and have measures to counter it, this means that they will be safer as they will have methods of preventing phishing from affecting them, meaning they have reduced the vulnerabilities within the development software.
+
 
 
 ### 5.1 Questionnaire that I used
