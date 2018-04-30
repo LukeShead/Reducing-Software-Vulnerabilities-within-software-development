@@ -96,7 +96,7 @@ When researching for reducing vulnerabilities within developing software, I need
 
 2. How safe do people think they are with their current security settings?
 
-3. Do people know what kind of information could lead to information being stolen
+3. Do people know what kind of data could lead to breaches in personal information if collected?
 
 The reasons why I want to know about these questions is because by looking at how people view security and how safe they think they are could link into when developing software, this is because if people are not careful during their development stage they can allow important data or information to be leaked out. Having data leaks can cause many different issues when attempting to develop a software as the software will be comprimised and any plans along with it, this can be potentially fatal for a company if the development of the software is vital for a team to keep operating
 
