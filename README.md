@@ -115,7 +115,7 @@ Using this information I will be able to see about how people view cyber securit
 
 ### 5.2 The information gathered when analysing my research
 
-When looking at the questionnaire for the research project, there were many conclusions that could of been drawn from it, for example when looking at certain parts of the questionnaire we can see that people 
+When looking at the questionnaire for the research project, there were many conclusions that could of been drawn from it, for example when looking at certain parts of the questionnaire we can see that people that hadn't experienced a cerain type of hack in their life had not been too bothered about the state of cyber security within their life and 
 
 
 
