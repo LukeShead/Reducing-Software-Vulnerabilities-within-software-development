@@ -102,7 +102,7 @@ The reasons why I want to know about these questions is because by looking at ho
 
 By finding out different ways people believe that hacking is and how they believe it is done, it shows me what kind of methods they know how to defend against since they are aware of it. For example if someone knows phishing is a method of hacking and what it does, the person can then look out for it and have measures to counter it, this means that they will be safer as they will have methods of preventing phishing from affecting them, meaning they have reduced the vulnerabilities within the development software.
 
-
+Finally, people that may not know the difference between sensitive and non-sensitive information can be at risk of allowing someone access into their personal information if they are not careful. If people know what is the difference and what information is classed as 'sensitive' and what isn't, then they can be more careful when dealing with this information and because of this, can be able to prevent certain information being accessed and by doing this, that person can keep themselves safer when handling delecate information, and as of such not allow breaches within their software.
 
 ### 5.1 Questionnaire that I used
 
