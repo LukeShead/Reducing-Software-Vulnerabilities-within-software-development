@@ -98,6 +98,8 @@ When researching for reducing vulnerabilities within developing software, I need
 
 3. Do people know what kind of information could lead to information being stolen
 
+The reasons why I want to know about these questions is because by looking at how people view security and how safe they think they are could link into when developing software, this is because 
+
 
 ### 5.1 Questionnaire that I used
 
@@ -108,9 +110,9 @@ Using this information I will be able to see about how people view cyber securit
 ![Questionnaire](https://github.com/LukeShead/Reducing-Software-Vulnerabilities-within-software-development/blob/master/Questionnaire.JPG)
 
 
+### 5.2 The information gathered when analysing my research
 
-
-
+When looking at the questionnaire for the research project, there were many conclusions that could of been drawn from it, for example when looking at certain parts of the questionnaire we can see that people 
 
 
 
