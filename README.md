@@ -115,7 +115,10 @@ Using this information I will be able to see about how people view cyber securit
 
 ### 5.2 The information gathered when analysing my research
 
-When looking at the questionnaire for the research project, there were many conclusions that could of been drawn from it, for example when looking at certain parts of the questionnaire we can see that people that hadn't experienced a cerain type of hack in their life had not been too bothered about the state of cyber security within their life and 
+The first question that I wanted to answer was how aware are people of hacking and how it is done, this includes the danger that it has onto someone and what it can mean if it is successful in it's task. Because of this the first question in my questionnaire was simply asking whether the person had ever experienced a hack of any type before, whilst going through the answers all the results started showing how different answers were for people that have experienced hacks and people that haven't. To further answer this question and find the information, the next question asked about the views on cyber security and whether it is important to know about it, this question would show how people see cyber security as being important to know and learn about, or if they believed it wasn't. 
+The results in the questionnaire showed that there was a clear difference in how people viewed cyber security after experiencing a hack and how people viewed it after never experiencing a hack. 
+
+When looking at the questionnaire for the research project, there were many conclusions that could of been drawn from it, for example when looking at certain parts of the questionnaire we can see that people that hadn't experienced a cerain type of hack in their life had not been too bothered about the state of cyber security within their life and within their life on the internet.
 
 
 
