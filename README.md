@@ -126,5 +126,5 @@ As well as this the questionnaire asked about malware within a system and how it
 
 When looking at the questionnaire for the research project, there were many conclusions that could of been drawn from it, for example when looking at certain parts of the questionnaire we can see that people that hadn't experienced a cerain type of hack in their life had not been too bothered about the state of cyber security within their life and within their life on the internet.
 
-
+The next questions that I wanted to have answered was how safe do people think they are with their current security settings? This means that 
 
