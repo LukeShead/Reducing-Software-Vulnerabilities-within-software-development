@@ -115,6 +115,7 @@ Using this information I will be able to see about how people view cyber securit
 
 ### 5.2 The information gathered when analysing my research
 
+#### Are people aware of what hacking is and how it is done?
 The first question that I wanted to answer was how aware are people of hacking and how it is done, this includes the danger that it has onto someone and what it can mean if it is successful in it's task. Because of this the first question in my questionnaire was simply asking whether the person had ever experienced a hack of any type before, whilst going through the answers all the results started showing how different answers were for people that have experienced hacks and people that haven't. To further answer this question and find the information, the next question asked about the views on cyber security and whether it is important to know about it, this question would show how people see cyber security as being important to know and learn about, or if they believed it wasn't. 
 The results in the questionnaire showed that there was a clear difference in how people viewed cyber security after experiencing a hack and how people viewed it after never experiencing a hack. 
 
@@ -126,5 +127,11 @@ As well as this the questionnaire asked about malware within a system and how it
 
 When looking at the questionnaire for the research project, there were many conclusions that could of been drawn from it, for example when looking at certain parts of the questionnaire we can see that people that hadn't experienced a cerain type of hack in their life had not been too bothered about the state of cyber security within their life and within their life on the internet.
 
-The next questions that I wanted to have answered was how safe do people think they are with their current security settings? This means that 
+#### How safe do people think they are with their current security settings?
+The next questions that I wanted to have answered was how safe do people think they are with their current security settings? This is the question designed to see peoples knowledge on their own security and how much they believe they are doing to protect themselves, for this I asked a few different questions that will see how safe they believe the are and then testing them on what they think safe is. 
+
+The first question I asked to help solve this was having a quantatative answer onto how safe people thought they were, I asked them to rate their different passwords and how safe and unique their passwords are
+
+
+
 
