@@ -130,7 +130,7 @@ When looking at the questionnaire for the research project, there were many conc
 #### How safe do people think they are with their current security settings?
 The next questions that I wanted to have answered was how safe do people think they are with their current security settings? This is the question designed to see peoples knowledge on their own security and how much they believe they are doing to protect themselves, for this I asked a few different questions that will see how safe they believe the are and then testing them on what they think safe is. 
 
-The first question I asked to help solve this was having a quantatative answer onto how safe people thought they were, I asked them to rate their different passwords and how safe and unique their passwords are and how they rate their passwords.
+The first question I asked to help solve this was having a quantatative answer onto how safe people thought they were, I asked them to rate their different passwords and how safe and unique their passwords are. 
 
 
 
