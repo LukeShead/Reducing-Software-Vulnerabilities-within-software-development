@@ -132,7 +132,9 @@ The next questions that I wanted to have answered was how safe do people think t
 
 The first question I asked to help solve this was having a quantatative answer onto how safe people thought they were, I asked them to rate their different passwords and how safe and unique their passwords are. These answers seemed to show how people with more experience in hacks viewed their passwords in comparison to people that haven't seem to be similar, people most of the time believed that their security in their passwords was secure.  
 
-For people who are mostly very confident in their password strength, they should be able to identify what passwords are safe and what are not when given examples. Because of this my next question was a test to see if these people knew what made a password safe was, I gave 2 examples, one was shorter but had a mixter of numbers and letters, and the other was long but had the same letters and no variety in characters. The correct answer to this was the longer but simpler one, this is because 
+For people who are mostly very confident in their password strength, they should be able to identify what passwords are safe and what are not when given examples. Because of this my next question was a test to see if these people knew what made a password safe was, I gave 2 examples, one was shorter but had a mixter of numbers and letters, and the other was long but had the same letters and no variety in characters. The correct answer to this was the longer but simpler one, this is because most systems are designed to only look for short but complex characters rather than longer ones depsite them being simpler.
+
+
 
 
 
