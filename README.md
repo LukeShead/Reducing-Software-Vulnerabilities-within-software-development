@@ -134,6 +134,8 @@ The first question I asked to help solve this was having a quantatative answer o
 
 For people who are mostly very confident in their password strength, they should be able to identify what passwords are safe and what are not when given examples. Because of this my next question was a test to see if these people knew what made a password safe was, I gave 2 examples, one was shorter but had a mixter of numbers and letters, and the other was long but had the same letters and no variety in characters. The correct answer to this was the longer but simpler one, this is because most systems are designed to only look for short but complex characters rather than longer ones depsite them being simpler.
 
+Despite people believing that they know what makes a password safe, 
+
 
 
 
