@@ -144,7 +144,7 @@ Out of the 17 people that said they knew what sensitive and non-sensitive inform
 
 ### Solutions
 
-By looking at all the information that has been researched, the biggest problem that has been researched by me has been the lack of knowledge that people have when keeping security in their daily life, for example when people 
+By looking at all the information that has been researched, the biggest problem that has been researched by me has been the lack of knowledge that people have when keeping security in their daily life, for example when people are choosing passwords for their online accounts or for any private use, make sure people understand what makes a password safe rather than what is known as common misconception 
 
 
 ## Conclusion
