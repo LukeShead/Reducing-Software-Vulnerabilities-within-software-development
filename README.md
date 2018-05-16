@@ -142,8 +142,17 @@ I tested people that took the questionnaire about this topic by asking them on i
 
 Out of the 17 people that said they knew what sensitive and non-sensitive information is, only two did not tick any, the remaining 15 people ticked something in the boxes, this meant that the people that thought they had an idea on what sensitive and non-sensitive information was actually did not understand how important certain pieces of information is. The most common was passwords for identifying non-sensitive information, this is because people understand what danger it can be to their life if your passwords are given to someone they don't know. However the most ticked answer was age, this is because the people taking the questionnaire do not understand the danger of someone having your age or what it can lead to. 
 
+### Solutions
+
+By looking at all the information that has been researched, the biggest problem that has been researched by me has been the lack of knowledge that people have when keeping security in their daily life, for example when people 
+
+
 ## Conclusion
 In conclusion, by using different types of researching methods, I have been able to get an idea about vulnerabilities that can exist on a system and especially in daily life, these can be extremely dangerous and can be fatal to certain projects. I mainly looked at the lack of knowledge in daily life when doing my primary research, these were to answer questions that would help find ways in reducing vulnerabilities when designing software.
+
+By looking at the general understanding of people, I am able to understand the type of knowledge people have and how they can be very dangerous to not understand and know. The biggest points of the research was looking at the same types of information that are very common, for example if people are not aware of the dangers of giving away certain information to people then they can be in danger of giving away information that can cause a lot of damage to them either online or in real life.
+
+
 
 
 
