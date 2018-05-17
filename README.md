@@ -142,9 +142,12 @@ I tested people that took the questionnaire about this topic by asking them on i
 
 Out of the 17 people that said they knew what sensitive and non-sensitive information is, only two did not tick any, the remaining 15 people ticked something in the boxes, this meant that the people that thought they had an idea on what sensitive and non-sensitive information was actually did not understand how important certain pieces of information is. The most common was passwords for identifying non-sensitive information, this is because people understand what danger it can be to their life if your passwords are given to someone they don't know. However the most ticked answer was age, this is because the people taking the questionnaire do not understand the danger of someone having your age or what it can lead to. 
 
-### Solutions
+### Drawing meaningful conclusions from the research
 
-By looking at all the information that has been researched, the biggest problem that has been researched by me has been the lack of knowledge that people have when keeping security in their daily life, for example when people are choosing passwords for their online accounts or for any private use, make sure people understand what makes a password safe rather than what is known as common misconception 
+By looking at all the information that has been researched, the biggest problem that has been researched by me has been the lack of knowledge that people have when keeping security in their daily life, for example when people are choosing passwords for their online accounts or for any private use, make sure people understand what makes a password safe rather than what is known as common misconception to be the uniqueness of the password when it can be as simple as increasing the number of characters in a password. 
+
+#### Solutions
+The first solution I would recommend to 
 
 
 ## Conclusion
