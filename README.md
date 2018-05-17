@@ -147,7 +147,8 @@ Out of the 17 people that said they knew what sensitive and non-sensitive inform
 By looking at all the information that has been researched, the biggest problem that has been researched by me has been the lack of knowledge that people have when keeping security in their daily life, for example when people are choosing passwords for their online accounts or for any private use, make sure people understand what makes a password safe rather than what is known as common misconception to be the uniqueness of the password when it can be as simple as increasing the number of characters in a password. 
 
 #### Solutions
-The first solution I would recommend to 
+The first solution I would recommend when referencing software development is to be able to understand what It means to have safe security settings, what this means is that different parts of the software development can be primarily online, this can be saving to the cloud or sending emails, as well as this if developers are not in the same area then there will be the need for many file transfers between them, this can mean that their project can be stolen or leaked before release.
+
 
 
 ## Conclusion
