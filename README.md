@@ -149,6 +149,8 @@ By looking at all the information that has been researched, the biggest problem 
 #### Solutions
 The first solution I would recommend when referencing software development is to be able to understand what It means to have safe security settings, what this means is that different parts of the software development can be primarily online, this can be saving to the cloud or sending emails, as well as this if developers are not in the same area then there will be the need for many file transfers between them, this can mean that their project can be stolen or leaked before release.
 
+This would mean understanding what makes a computer safe and allow those safety protocols to be practised within the development process, by doing this being able to keep data safe from external sources, this doesn’t mean that it is the only thing that can be done however, most hacks and cyber-attacks do not come from internal rather than simple malicious tactics instead of a hack.
+
 ## Conclusion
 In conclusion, by using different types of researching methods, I have been able to get an idea about vulnerabilities that can exist on a system and especially in daily life, these can be extremely dangerous and can be fatal to certain projects. I mainly looked at the lack of knowledge in daily life when doing my primary research, these were to answer questions that would help find ways in reducing vulnerabilities when designing software.
 
