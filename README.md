@@ -167,6 +167,6 @@ In conclusion, by using different types of researching methods, I have been able
 
 By looking at the general understanding of people, I am able to understand the type of knowledge people have and how they can be very dangerous to not understand and know. The biggest points of the research was looking at the same types of information that are very common, for example if people are not aware of the dangers of giving away certain information to people then they can be in danger of giving away information that can cause a lot of damage to them either online or in real life.
 
-As well as this companies that build software have many vulnerabilities that must be covered before allowing access to the public, the vulnerabilities can cause a problem that is trivial, or a problem that can be fatal. Because of this there 
+As well as this companies that build software have many vulnerabilities that must be covered before allowing access to the public, the vulnerabilities can cause a problem that is trivial, or a problem that can be fatal. Because of this no matter what the vulnerability is and how hard it is to exploit, they must be covered and as many as possible without affecting limitations. By not doing this, it means that the project and software that is being developed can be at risk of being exploited when it is complete.
 
 
