@@ -146,10 +146,18 @@ Out of the 17 people that said they knew what sensitive and non-sensitive inform
 
 By looking at all the information that has been researched, the biggest problem that has been researched by me has been the lack of knowledge that people have when keeping security in their daily life, for example when people are choosing passwords for their online accounts or for any private use, make sure people understand what makes a password safe rather than what is known as common misconception to be the uniqueness of the password when it can be as simple as increasing the number of characters in a password. 
 
+That was the main goal for my primary research, however my secondary research was to look at different types of hacks and how they affected companies and the drawbacks of being hacked as well as measures that were taken to stop it from happening again, by looking at these different points I could find out how when dealing with software there are many vulnerabilities but also many ways to reduce them.
+
 #### Solutions
-The first solution I would recommend when referencing software development is to be able to understand what It means to have safe security settings, what this means is that different parts of the software development can be primarily online, this can be saving to the cloud or sending emails, as well as this if developers are not in the same area then there will be the need for many file transfers between them, this can mean that their project can be stolen or leaked before release.
+
+##### Primary Research
+The first solutionI would recommend when referencing software development is to be able to understand what It means to have safe security settings, what this means is that different parts of the software development can be primarily online, this can be saving to the cloud or sending emails, as well as this if developers are not in the same area then there will be the need for many file transfers between them, this can mean that their project can be stolen or leaked before release.
 
 This would mean understanding what makes a computer safe and allow those safety protocols to be practised within the development process, by doing this being able to keep data safe from external sources, this doesn’t mean that it is the only thing that can be done however, most hacks and cyber-attacks do not come from internal rather than simple malicious tactics instead of a hack.
+
+The questions that I asked can all be summed up into general knowledge onto security measures and the common misconceptions that exist within the area, for my primary research it was all about the knowledge and how it would affect people that don’t understand what makes their computer safe. To this end, the answers that I found were mostly leaning towards believing to know what made certain security measures safe however actually not, this shows a clear lack of knowledge within young people today. 
+
+
 
 ## Conclusion
 In conclusion, by using different types of researching methods, I have been able to get an idea about vulnerabilities that can exist on a system and especially in daily life, these can be extremely dangerous and can be fatal to certain projects. I mainly looked at the lack of knowledge in daily life when doing my primary research, these were to answer questions that would help find ways in reducing vulnerabilities when designing software.
