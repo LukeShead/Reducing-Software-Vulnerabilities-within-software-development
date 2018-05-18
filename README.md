@@ -157,6 +157,9 @@ This would mean understanding what makes a computer safe and allow those safety 
 
 The questions that I asked can all be summed up into general knowledge onto security measures and the common misconceptions that exist within the area, for my primary research it was all about the knowledge and how it would affect people that don’t understand what makes their computer safe. To this end, the answers that I found were mostly leaning towards believing to know what made certain security measures safe however actually not, this shows a clear lack of knowledge within young people today. 
 
+##### Secondary Research
+When looking at the secondary research and the case studies that was taken, there are many different types of vulnerabilities within a system and how the vulnerabilities can be exploited for malicious intent. Earlier in the document I explained how different forms of vulnerabilities can exist within a system and the problems they can cause. An example of this is System limits and memory usage, I explained how it can be exploited to crash a software, this can lead into many different events that can cause a company to have a massive data breach and potentially cause damage to the company’s reputation or projects.
+
 
 
 ## Conclusion
@@ -164,7 +167,6 @@ In conclusion, by using different types of researching methods, I have been able
 
 By looking at the general understanding of people, I am able to understand the type of knowledge people have and how they can be very dangerous to not understand and know. The biggest points of the research was looking at the same types of information that are very common, for example if people are not aware of the dangers of giving away certain information to people then they can be in danger of giving away information that can cause a lot of damage to them either online or in real life.
 
-
-
+As well as this companies that build software have many vulnerabilities that must be covered before allowing access to the public, the vulnerabilities can cause a problem that is trivial, or a problem that can be fatal. Because of this there 
 
 
