@@ -160,8 +160,6 @@ The questions that I asked can all be summed up into general knowledge onto secu
 ##### Secondary Research
 When looking at the secondary research and the case studies that was taken, there are many different types of vulnerabilities within a system and how the vulnerabilities can be exploited for malicious intent. Earlier in the document I explained how different forms of vulnerabilities can exist within a system and the problems they can cause. An example of this is System limits and memory usage, I explained how it can be exploited to crash a software, this can lead into many different events that can cause a company to have a massive data breach and potentially cause damage to the company’s reputation or projects.
 
-
-
 ## Conclusion
 In conclusion, by using different types of researching methods, I have been able to get an idea about vulnerabilities that can exist on a system and especially in daily life, these can be extremely dangerous and can be fatal to certain projects. I mainly looked at the lack of knowledge in daily life when doing my primary research, these were to answer questions that would help find ways in reducing vulnerabilities when designing software.
 
