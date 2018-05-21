@@ -157,7 +157,16 @@ This would mean understanding what makes a computer safe and allow those safety 
 
 The questions that I asked can all be summed up into general knowledge onto security measures and the common misconceptions that exist within the area, for my primary research it was all about the knowledge and how it would affect people that don’t understand what makes their computer safe. To this end, the answers that I found were mostly leaning towards believing to know what made certain security measures safe however actually not, this shows a clear lack of knowledge within young people today.
 
-![question 1](https://github.com/LukeShead/Reducing-Software-Vulnerabilities-within-software-development/blob/master/Question%201.JPG)
+![Question 1](https://github.com/LukeShead/Reducing-Software-Vulnerabilities-within-software-development/blob/master/Question%201.JPG)
+
+![Question 2](https://github.com/LukeShead/Reducing-Software-Vulnerabilities-within-software-development/blob/master/Question%202.JPG)
+
+![Question 7](github.com/LukeShead/Reducing-Software-Vulnerabilities-within-software-development/blob/master/Question%207.JPG)
+
+![Question 8](https://github.com/LukeShead/Reducing-Software-Vulnerabilities-within-software-development/blob/master/Question%208.JPG)
+
+![Question 9](https://github.com/LukeShead/Reducing-Software-Vulnerabilities-within-software-development/blob/master/Question%209.JPG)
+
 
 ##### Secondary Research
 When looking at the secondary research and the case studies that was taken, there are many different types of vulnerabilities within a system and how the vulnerabilities can be exploited for malicious intent. Earlier in the document I explained how different forms of vulnerabilities can exist within a system and the problems they can cause. An example of this is System limits and memory usage, I explained how it can be exploited to crash a software, this can lead into many different events that can cause a company to have a massive data breach and potentially cause damage to the company’s reputation or projects.
