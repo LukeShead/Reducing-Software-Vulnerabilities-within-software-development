@@ -181,9 +181,9 @@ Overall, the research that I did was a success, the answers that I asked were an
 
 The survey was built to make the participant think about their own security on their forms of media and in private life, the questions asked about the type of knowledge they had on security and if they really knew what made a system secure as well as the dangers of not knowing this. The method I used with my questionnaire involved having trick questions in order to throw off the users. This was a method that I feel was beneficial for the questionnaire as it allowed people to answer questions that they believed they knew the answers for, this was effective in causing people to challenge the participant and let them think in-depth towards what was the right answer. 
 
-The survey was all connected in some way however changed the area of knowledge slightly in order to answer the questions that I wanted, overall all of the questions had something to do with the overall knowledge of security and the methods of keeping it safe and all of the questions were discussing the different topics that were needed.
+The survey was all connected in some way however changed the area of knowledge slightly in order to answer the questions that I wanted, overall all of the questions had something to do with the overall knowledge of security and the methods of keeping it safe and all of the questions were discussing the different topics that were needed in order to gain the sufficient data. There were some questions that showed me what the average person knows about security, many answers described the person believing they know then failing the answer the question about the topic, this data was very handy in my research and my ability to draw conclusions for each one.
 
-
+Overall the survey and methods allowed me to gather the data that was vital in allowing me to make my own recommendations, analysing the data and being able to achieve a positive outcome out of it has given me the experience in collecting and analysing data as well as being beneficial towards any research projects that are done in the future.
 
 
 
