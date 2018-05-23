@@ -176,4 +176,17 @@ By looking at the general understanding of people, I am able to understand the t
 
 As well as this companies that build software have many vulnerabilities that must be covered before allowing access to the public, the vulnerabilities can cause a problem that is trivial, or a problem that can be fatal. Because of this no matter what the vulnerability is and how hard it is to exploit, they must be covered and as many as possible without affecting limitations. By not doing this, it means that the project and software that is being developed can be at risk of being exploited when it is complete.
 
+## Self-reflection on the values of research and the methods used
+Overall, the research that I did was a success, the answers that I asked were answered to a good degree, where there were some that weren't the majority of answers that recieved by the quesionnaire were positive answers that helped me in my research. The questionnaire itself was made simple and the questions contained a mixture of qualitive and quantitative questions, this allowed the data I recieved from the questionnaire to be much clearer and it allowed me to analyse the answers much easier. With the 20 people that took the questionnaire, many of them showed intersting results in their answers. The people that were surveyed are all from different backgrounds and with different interests, for example there are many people that did a media course and some others that did business for a course, this means that the answers were varied and fair.
+
+The survey was built to make the participant think about their own security on their forms of media and in private life, the questions asked about the type of knowledge they had on security and if they really knew what made a system secure as well as the dangers of not knowing this. The method I used with my questionnaire involved having trick questions in order to throw off the users. This was a method that I feel was beneficial for the questionnaire as it allowed people to answer questions that they believed they knew the answers for, this was effective in causing people to challenge the participant and let them think in-depth towards what was the right answer. 
+
+The survey was all connected in some way however changed the area of knowledge slightly in order to answer the questions that I wanted, overall all of the questions had something to do with the overall knowledge of security and the methods of keeping it safe and all of the questions were discussing the different topics that were needed.
+
+
+
+
+
+
+
 
